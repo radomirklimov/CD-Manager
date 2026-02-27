@@ -1,0 +1,6 @@
+@CDManagerBackend_HostAddress = http://localhost:5186
+
+GET {{CDManagerBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

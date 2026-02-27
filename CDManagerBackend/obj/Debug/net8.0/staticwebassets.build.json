@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "23xZPP56ICXhTGny2oQi3S4wNQFIxYwSDcAg4TTF3mg=",
+  "Source": "CDManagerBackend",
+  "BasePath": "_content/CDManagerBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
