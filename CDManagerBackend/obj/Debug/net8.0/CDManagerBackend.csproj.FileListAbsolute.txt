@@ -32,3 +32,4 @@ D:\School\Programming\CD Manager C# + Vue.js\CDManagerBackend\CDManagerBackend\o
 D:\School\Programming\CD Manager C# + Vue.js\CDManagerBackend\CDManagerBackend\obj\Debug\net8.0\ref\CDManagerBackend.dll
 D:\School\Programming\CD Manager C# + Vue.js\CDManagerBackend\CDManagerBackend\bin\Debug\net8.0\CsvHelper.dll
 D:\School\Programming\CD Manager C# + Vue.js\CDManagerBackend\CDManagerBackend\bin\Debug\net8.0\YamlDotNet.dll
+D:\School\Programming\CD Manager C# + Vue.js\CDManagerBackend\CDManagerBackend\obj\Debug\net8.0\CDManagerBackend.sourcelink.json

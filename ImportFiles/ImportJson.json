@@ -1,17 +1,17 @@
 [
   {
-    "performer": "Linkin Park",
-    "title": "Hybrid Theory",
-    "duration": 2000
+    "Performer": "Linkin Park",
+    "Title": "Hybrid Theory",
+    "Duration": 2000
   },
   {
-    "performer": "Michael Jackson",
-    "title": "Thriller",
-    "duration": 1230
+    "Performer": "Michael Jackson",
+    "Title": "Thriller",
+    "Duration": 1230
   },
   {
-    "performer": "AC/DC",
-    "title": "Back in Black",
-    "duration": 300
+    "Performer": "AC/DC",
+    "Title": "Back in Black",
+    "Duration": 300
   }
 ]

@@ -72,10 +72,7 @@ namespace CDManagerBackend
         public CD? Next()
         {
             if (currentIndex + 1 >= cDs.Count)
-                return null;
-
-            if (currentIndex >= cDs.Count)
-                currentIndex = 0;
+                currentIndex = -1;
 
             currentIndex++;
             return cDs[currentIndex];

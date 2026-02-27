@@ -42,8 +42,7 @@
               "RelativeToolTip": "CDManagerBackend\\Services\\CDListService.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T06:39:43.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T06:39:43.088Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "CDManagerBackend\\CDList.cs",
               "ToolTip": "D:\\School\\Programming\\CD Manager C# \u002B Vue.js\\CDManagerBackend\\CDManagerBackend\\CDList.cs",
               "RelativeToolTip": "CDManagerBackend\\CDList.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAxwE0AAAAhAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswEoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T17:33:26.548Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "CDManagerBackend\\CD.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T17:06:17.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T17:06:17.641Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "CDManagerBackend\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T16:56:03.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T16:56:03.758Z"
             }
           ]
         },
